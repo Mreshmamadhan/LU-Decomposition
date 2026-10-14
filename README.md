@@ -59,6 +59,13 @@ print(x)
 
 ## Output:
 ![lu decomposition]()
+### 5.a
+<img width="1007" height="807" alt="Screenshot 2026-10-14 095129" src="https://github.com/user-attachments/assets/dc1a884c-6a8c-4032-9124-3091dbe1f96a" />
+
+### 5.b
+<img width="866" height="733" alt="Screenshot 2026-10-14 095236" src="https://github.com/user-attachments/assets/351e0f1c-2c76-4fc9-93c6-8fea51c00037" />
+
+
 
 
 ## Result:
